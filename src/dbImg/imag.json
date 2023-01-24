@@ -1,7 +1,7 @@
  [ 
-  {"imag":"../public/img/1.jpg"},
-  {"imag":"../public/img/2.jpg"},
-  {"imag":"../public/img/3.jpg"},
-  {"imag":"../public/img/4.jpg"}
+  {"imag":"/img/1.jpg"},
+  {"imag":"/img/2.jpg"},
+  {"imag":"/img/3.jpg"},
+  {"imag":"/img/4.jpg"}
 ]
 
